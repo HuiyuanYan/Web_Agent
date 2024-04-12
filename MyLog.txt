@@ -1,0 +1,2 @@
+Date: 2024/3/21
+Work: 申请了zhipuai的api，利用langchain自定义构建了基于此的ChatModel
